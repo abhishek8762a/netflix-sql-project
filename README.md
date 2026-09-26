@@ -1,7 +1,7 @@
 # Netflix SQL Analysis Project
 
 ## 📌 Objective
-This project analyzes a Netflix dataset using SQL to extract meaningful insights about content, ratings, and trends.
+This project analyzes a Netflix dataset using SQL to extract meaningful insights about content, ratings, and trends. The analysis covers rating distribution, top-rated shows, year-wise release trends and quality-tier categorisation using SQL CASE statements.
 
 ## 🛠️ Tools Used
 - MySQL Workbench  
