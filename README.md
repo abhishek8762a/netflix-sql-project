@@ -33,10 +33,5 @@ This project analyzes a Netflix dataset using SQL to extract meaningful insights
 - Maintain consistent content release strategy as seen in past trends  
 
 ## 📁 Files Included
-<<<<<<< HEAD
-- `netflix_analysis.sql` - SQL queries with insights  
-- `netflix.csv` - Dataset used for analysis
-=======
-- netflix_analysis.sql → SQL queries with insights  
-- netflix.csv → Dataset used for analysis
->>>>>>> b99f94ff5dcfa36bf262b4a0b452180531bd40eb
+- `dataset/01netflix_analysis.sql` — SQL queries with insights  
+- `dataset/netflix.csv.csv` — dataset used for analysis
